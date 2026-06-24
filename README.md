@@ -1,3 +1,4 @@
+<img width="482" height="353" alt="Ekran Resmi 2026-06-24 18 10 12" src="https://github.com/user-attachments/assets/b97cfc81-d27b-4527-ada8-18caf0f3e969" />
 # Snake Oyunu
 
 Klasik Snake oyununun C++ ile yazılmış modern bir uyarlaması.
@@ -86,3 +87,5 @@ Eğer proje zaten derlenmiş ise, basitçe çalıştırılabilir dosyayı çalı
 
 **Dil**: C++  
 **Kütüphane**: SFML 2.5+
+<img width="488" height="357" alt="Ekran Resmi 2026-06-24 18 08 46" src="https://github.com/user-attachments/assets/e2cc5744-b347-4391-b6b4-5f378a8031b5" />
+<img width="482" height="353" alt="Ekran Resmi 2026-06-24 18 10 12" src="https://github.com/user-attachments/assets/cbcedafb-0c48-4b43-99cc-cb307bb13e53" />
